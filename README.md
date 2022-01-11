@@ -120,5 +120,5 @@ Team velocity
 
  - Given the following requirement, please write an user story with all
    the required items for the dev team.
-   `I want to have notifications similar to what facebook does. ` I 
+   `I want to have notifications in the App when there is new contend added`  
 
