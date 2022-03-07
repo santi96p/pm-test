@@ -122,3 +122,23 @@ Team velocity
    the required items for the dev team.
    `I want to have notifications in the App when there is new contend added`  
 
+Santiago Parra Alvarez Test PM
+
+As: App user
+I want: Notifications in the app
+To: Know what new content has been added
+What is the app for?
+In the banking app, the user wants to know the daily updates of the trm, euro, bt, USD, and stock exchanges.
+Pop-up notification, appears in the header for 3 seconds and is hidden, when hidden, a red dot is activated in the bell that indicates "new notification", pressing the bell shows all notifications in a drop-down list, selecting the bell leads to another action, returning to the start disables the red dot.
+
+Criteria of acceptance
+Popup notification in the header for 3 seconds
+bell status change
+drop-down list
+screen toggle action on a select notification
+the action of removing old or new notifications
+
+fibonacci estimation with planitpoker
+
+backlog and documentation: Jira and confluence.
+
